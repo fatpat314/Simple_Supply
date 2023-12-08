@@ -1,0 +1,292 @@
+City,Month,Day,Demand,Age Group,Income Level,Healthcare Access,Disease Prevalence,Patient Count,Treatment Frequency,Drug Type Preference,Urgency Level,Insurance Coverage
+Chicago,11,21,296,<18,Low,Low,Low,51,Regular,Branded,Medium,None
+Seattle,9,3,255,<18,High,High,Medium,9,Regular,Generic,Low,Full
+Nashville,10,15,259,18-40,High,Medium,Low,37,Occasional,Branded,Medium,Full
+"Washington, D.C.",4,19,299,<18,High,Low,High,73,Regular,Generic,High,Partial
+Tucson,11,25,297,>65,Low,Medium,High,27,Regular,Branded,High,Full
+Portland,4,4,289,40-65,Low,High,High,47,Occasional,Generic,Medium,Partial
+Miami Beach,3,10,281,18-40,Low,Medium,Medium,41,Occasional,Generic,Low,None
+Chicago,6,9,259,18-40,Medium,Low,High,71,Occasional,Generic,High,None
+Aurora,2,25,296,40-65,Medium,Low,Low,16,Rare,Branded,Medium,None
+Long Beach,8,28,283,<18,Low,High,High,48,Regular,Branded,Medium,Full
+Tampa,5,23,263,18-40,Medium,Medium,Low,56,Regular,Branded,Medium,Partial
+Omaha,5,22,277,<18,Medium,Low,High,21,Rare,Branded,High,Partial
+Sacramento,3,7,265,>65,Medium,Medium,Medium,41,Regular,Branded,Low,Full
+Kansas City,2,4,292,<18,Low,Low,Low,62,Regular,Branded,Medium,Partial
+Colorado Springs,9,2,275,<18,High,High,Medium,33,Rare,Generic,Low,None
+Minneapolis,1,2,295,40-65,Low,Medium,High,12,Regular,Generic,High,Full
+Atlanta,2,10,262,>65,Low,Medium,High,68,Rare,Branded,Low,Full
+Wichita,7,19,261,40-65,Medium,Low,Low,19,Occasional,Branded,Low,Partial
+Philadelphia,12,5,279,18-40,Medium,Low,Medium,93,Occasional,Generic,High,Full
+San Diego,12,24,268,>65,Low,High,High,100,Regular,Branded,Low,Full
+Phoenix,8,1,280,18-40,Medium,Low,High,34,Occasional,Branded,Medium,Full
+New York,10,10,251,<18,Low,Low,Low,41,Regular,Generic,Low,None
+Albuquerque,12,19,274,18-40,Medium,Low,High,46,Rare,Branded,High,Full
+Milwaukee,1,22,281,40-65,Medium,Medium,High,81,Occasional,Generic,Medium,None
+Albuquerque,8,10,270,<18,Low,Low,High,66,Rare,Generic,High,Full
+Philadelphia,10,28,257,>65,High,High,Medium,38,Occasional,Branded,High,Partial
+Memphis,9,27,292,40-65,Low,Medium,Low,43,Rare,Branded,Medium,Full
+San Jose,9,9,276,<18,High,High,Low,27,Rare,Generic,Medium,Partial
+San Antonio,3,10,263,40-65,High,High,Medium,45,Regular,Branded,High,Partial
+Tampa,11,11,270,40-65,Medium,Medium,Low,46,Rare,Generic,High,Full
+Fort Worth,4,13,252,>65,Low,High,Medium,53,Rare,Branded,Medium,Partial
+Columbus,6,4,253,18-40,High,High,Low,21,Occasional,Branded,Low,Partial
+Miami,9,3,289,<18,High,Medium,High,77,Occasional,Branded,Low,Full
+Baltimore,1,1,265,40-65,High,Medium,Low,85,Regular,Branded,High,Full
+Wichita,3,6,262,<18,Medium,Medium,High,49,Rare,Generic,Medium,Full
+San Diego,11,24,290,18-40,Medium,Medium,Low,15,Regular,Generic,High,Partial
+Mesa,5,9,300,>65,Low,Medium,Low,22,Rare,Branded,Medium,None
+Virginia Beach,4,21,293,40-65,Low,Low,Medium,57,Occasional,Generic,Medium,Full
+Miami Beach,4,13,272,>65,Low,High,Low,87,Rare,Generic,High,Full
+Orlando,1,2,257,40-65,Low,Medium,High,44,Regular,Branded,Low,Full
+Omaha,8,8,253,18-40,High,Medium,Medium,92,Regular,Branded,Medium,Full
+San Francisco,4,5,262,18-40,Low,High,Low,66,Regular,Branded,Low,None
+Nashville,2,3,273,>65,High,High,Medium,73,Rare,Generic,High,Full
+Las Vegas,7,12,268,40-65,Low,High,Medium,75,Rare,Generic,High,Partial
+Austin,1,18,269,40-65,Low,High,Medium,23,Occasional,Generic,Low,Partial
+New York,10,23,280,>65,Medium,Medium,Medium,98,Regular,Generic,Low,Partial
+Atlanta,10,8,271,18-40,Low,High,Medium,34,Rare,Generic,Medium,Full
+Cleveland,2,7,261,18-40,Medium,Low,High,31,Rare,Generic,High,None
+Atlanta,9,19,270,>65,Medium,High,Medium,86,Rare,Generic,Medium,Partial
+Tulsa,4,1,284,18-40,Low,High,High,86,Regular,Generic,Medium,Partial
+Virginia Beach,1,20,274,40-65,Medium,Low,Medium,94,Occasional,Branded,Low,Full
+Baltimore,7,3,263,>65,Medium,Low,High,91,Regular,Generic,Medium,None
+New York,3,5,299,<18,Medium,Medium,Medium,18,Regular,Branded,Low,None
+Tampa,3,9,261,<18,High,High,Medium,21,Regular,Generic,Medium,Full
+Aurora,5,7,289,>65,Medium,High,High,5,Rare,Branded,Low,Full
+Mesa,9,13,274,40-65,High,Low,Low,62,Rare,Branded,Medium,None
+Oakland,2,15,291,>65,High,Low,High,44,Regular,Generic,High,Partial
+Long Beach,8,17,298,40-65,High,Low,Low,41,Occasional,Generic,Medium,Partial
+Austin,2,16,292,>65,Low,Medium,High,17,Regular,Branded,Medium,None
+Tulsa,9,13,257,18-40,High,Medium,Medium,27,Occasional,Branded,High,None
+San Francisco,3,8,259,<18,Low,Low,Low,26,Occasional,Branded,Low,Full
+San Jose,12,23,291,40-65,Low,High,High,53,Occasional,Generic,Medium,None
+Orlando,1,21,291,<18,Low,Low,High,56,Occasional,Generic,Medium,None
+Dallas,11,20,277,40-65,High,High,Medium,70,Occasional,Branded,Low,Partial
+"Washington, D.C.",11,8,280,40-65,High,Medium,High,89,Regular,Generic,Medium,None
+Fort Worth,9,25,260,40-65,High,Medium,High,68,Rare,Branded,Low,None
+Atlanta,2,26,252,>65,High,Medium,Low,36,Occasional,Generic,Medium,Full
+Sacramento,7,11,287,>65,High,Low,Medium,92,Regular,Generic,Medium,Full
+Tampa,3,28,291,18-40,High,High,Medium,16,Occasional,Branded,Medium,Partial
+Boston,6,18,276,18-40,High,Medium,Low,17,Occasional,Generic,Medium,None
+Tucson,7,9,276,18-40,Medium,Low,Medium,7,Occasional,Generic,Low,Partial
+Portland,7,18,281,40-65,Low,Low,Low,55,Regular,Branded,High,Full
+Dallas,7,18,297,<18,Low,Low,Medium,33,Rare,Generic,Low,Full
+Austin,4,5,257,>65,Medium,High,Medium,8,Regular,Branded,High,Partial
+Long Beach,1,22,266,>65,Medium,Low,Medium,14,Occasional,Generic,High,None
+Memphis,9,23,276,18-40,Low,Medium,High,7,Rare,Generic,Medium,None
+Cleveland,5,21,279,18-40,High,High,High,15,Rare,Generic,Low,None
+Jacksonville,2,14,286,40-65,Medium,Low,High,70,Regular,Generic,Low,Full
+Indianapolis,3,14,260,>65,High,Low,Low,83,Regular,Branded,High,Partial
+Detroit,7,7,266,<18,Low,Medium,Low,13,Occasional,Branded,Low,Full
+Charlotte,8,7,290,>65,Low,Medium,High,7,Rare,Generic,High,Partial
+San Francisco,1,18,269,<18,Medium,Low,High,27,Occasional,Generic,High,None
+San Jose,8,1,293,40-65,Medium,Low,High,89,Rare,Generic,Low,Full
+Indianapolis,11,25,283,>65,Medium,High,High,11,Occasional,Branded,Medium,None
+Virginia Beach,11,1,288,18-40,Low,Medium,Low,37,Rare,Generic,Medium,Partial
+New Orleans,12,12,300,>65,Medium,Medium,Medium,29,Rare,Branded,Low,None
+Sacramento,7,9,284,<18,Medium,Medium,Medium,31,Occasional,Branded,Low,None
+Nashville,4,10,251,>65,Low,Medium,High,66,Occasional,Generic,High,None
+Colorado Springs,9,11,286,18-40,Low,Low,Medium,11,Rare,Branded,High,Full
+Tampa,6,6,299,>65,Medium,Low,Medium,59,Occasional,Generic,High,None
+Tulsa,2,27,299,40-65,Low,Medium,High,47,Rare,Generic,Low,None
+Baltimore,12,4,277,<18,High,Low,Medium,30,Regular,Generic,Low,Full
+Fort Worth,9,3,271,18-40,Medium,High,Low,17,Rare,Branded,High,Full
+Phoenix,5,16,272,18-40,Low,High,High,18,Regular,Generic,Medium,Full
+New York,6,6,254,40-65,Low,High,Medium,65,Occasional,Branded,Medium,Full
+Kansas City,1,9,295,>65,High,High,Medium,94,Rare,Generic,Low,None
+Denver,10,25,268,40-65,Low,High,High,70,Rare,Branded,Medium,Partial
+Arlington,5,25,292,40-65,Low,High,Medium,93,Regular,Branded,Medium,Partial
+Oakland,6,21,257,40-65,Low,Medium,Medium,27,Regular,Generic,High,None
+Mesa,6,24,297,18-40,Low,Medium,Low,72,Occasional,Branded,Low,Partial
+Albuquerque,4,4,296,40-65,High,High,High,47,Regular,Generic,Low,Partial
+Long Beach,2,1,281,<18,Low,Low,High,73,Rare,Generic,Low,Partial
+Minneapolis,9,1,270,>65,High,Medium,Low,51,Regular,Branded,Medium,Full
+Indianapolis,12,13,258,18-40,High,High,Medium,41,Regular,Generic,Medium,Partial
+Virginia Beach,10,5,291,40-65,Low,High,High,100,Regular,Generic,Low,None
+Oakland,8,5,292,<18,Low,High,Low,3,Rare,Generic,Low,None
+Charlotte,10,10,269,40-65,Low,Medium,Medium,85,Rare,Branded,Medium,Partial
+Baltimore,6,20,252,40-65,Medium,High,Low,16,Occasional,Generic,Low,Partial
+Bakersfield,3,24,283,18-40,High,Medium,Medium,82,Occasional,Generic,Low,Partial
+Minneapolis,10,25,268,18-40,Low,Low,High,86,Occasional,Branded,High,Partial
+Fort Worth,10,18,276,18-40,High,Medium,High,27,Regular,Branded,Low,Full
+Fort Worth,4,12,296,18-40,High,Low,High,87,Occasional,Generic,Medium,Full
+Columbus,8,12,272,40-65,Low,High,Medium,39,Rare,Branded,High,Full
+New Orleans,7,21,274,>65,Medium,High,High,87,Regular,Branded,Low,None
+Denver,6,26,289,40-65,Low,Medium,Medium,81,Rare,Generic,Low,Full
+"Washington, D.C.",3,10,267,40-65,Low,Low,Medium,32,Occasional,Generic,Low,Full
+San Antonio,2,18,272,>65,Low,Low,High,13,Regular,Branded,Low,None
+San Diego,6,16,278,18-40,High,Low,Low,85,Occasional,Generic,Medium,Partial
+Cleveland,5,9,280,<18,Medium,Medium,Low,95,Regular,Generic,High,Full
+Miami,2,1,289,>65,Low,High,Low,23,Regular,Generic,High,None
+Sacramento,9,13,281,>65,High,Medium,Medium,31,Rare,Generic,Low,None
+Wichita,3,10,273,40-65,Low,Low,Medium,57,Regular,Generic,Low,Partial
+Philadelphia,5,17,271,18-40,Medium,Low,Medium,7,Rare,Generic,Medium,Full
+Cleveland,6,10,268,40-65,Low,High,High,91,Rare,Branded,Low,Partial
+Portland,2,10,273,18-40,Medium,High,Low,100,Regular,Generic,Medium,Full
+Cleveland,3,6,266,18-40,Medium,Medium,Medium,79,Occasional,Branded,High,Partial
+Philadelphia,3,1,256,18-40,High,High,High,98,Rare,Branded,Low,Partial
+Tampa,1,11,256,40-65,Low,High,Low,96,Regular,Generic,Medium,Partial
+Portland,1,28,290,<18,Low,High,Medium,82,Occasional,Branded,High,Partial
+Seattle,6,24,294,<18,High,High,High,54,Regular,Branded,Medium,None
+Kansas City,12,10,275,40-65,Medium,Low,High,36,Regular,Generic,High,None
+Arlington,3,19,252,>65,Medium,High,Medium,81,Rare,Generic,Low,Partial
+Boston,8,7,268,<18,Medium,Low,High,83,Regular,Branded,High,Full
+Wichita,9,5,294,<18,Low,Medium,Low,14,Occasional,Branded,High,None
+Milwaukee,7,9,292,>65,High,Medium,Low,79,Regular,Generic,Medium,Full
+Portland,1,22,267,<18,Medium,High,Low,55,Rare,Generic,Medium,Partial
+Albuquerque,11,8,277,40-65,High,Medium,Medium,95,Regular,Generic,Medium,Partial
+Fresno,12,23,257,40-65,High,Medium,High,62,Rare,Branded,High,Partial
+Dallas,10,4,261,40-65,Medium,Medium,Low,17,Regular,Generic,Low,None
+Louisville,1,23,294,40-65,Low,Low,Low,88,Regular,Generic,High,Partial
+Long Beach,9,13,293,18-40,High,High,High,95,Regular,Branded,Medium,None
+San Jose,9,11,268,<18,High,Low,Medium,21,Regular,Generic,Medium,Partial
+New Orleans,2,2,252,18-40,Medium,Low,Low,37,Rare,Generic,Low,Full
+Philadelphia,11,8,267,>65,High,Low,Medium,23,Rare,Generic,Low,None
+Chicago,2,6,279,<18,Medium,Low,High,62,Occasional,Branded,Low,Full
+Miami,1,17,282,>65,Low,High,Low,36,Regular,Generic,Low,None
+Los Angeles,2,2,296,>65,Low,Medium,Medium,81,Regular,Generic,Low,None
+Raleigh,1,2,297,40-65,Low,Medium,Medium,19,Rare,Generic,Medium,None
+"Washington, D.C.",5,16,277,>65,Low,High,Low,93,Regular,Generic,Medium,Partial
+Fresno,7,28,296,<18,Low,Medium,Medium,2,Regular,Branded,Low,None
+Tampa,5,4,281,<18,Medium,High,Medium,76,Regular,Generic,Low,Partial
+Kansas City,5,16,265,<18,Low,Low,High,17,Occasional,Generic,High,None
+Detroit,5,24,252,<18,Low,High,Low,79,Rare,Branded,High,Partial
+Wichita,8,9,264,40-65,Low,Medium,Low,67,Regular,Generic,Low,Full
+Atlanta,6,12,255,18-40,Medium,Medium,High,97,Rare,Branded,High,None
+Indianapolis,9,17,273,<18,Medium,Medium,Medium,23,Occasional,Branded,Medium,Partial
+San Francisco,11,7,283,>65,High,High,Low,27,Regular,Branded,High,None
+Mesa,2,7,279,40-65,High,Low,Low,20,Occasional,Branded,Low,Full
+Miami Beach,9,10,253,<18,Medium,Medium,High,43,Rare,Branded,High,None
+Nashville,8,23,269,18-40,Low,High,High,25,Rare,Branded,Low,None
+San Francisco,5,7,300,40-65,Medium,High,Low,91,Rare,Generic,High,Partial
+Kansas City,7,22,255,<18,High,Medium,Medium,22,Rare,Generic,Medium,Full
+Omaha,8,4,299,<18,Low,Low,Low,40,Rare,Branded,Low,Partial
+Aurora,10,27,251,18-40,Medium,Low,Medium,15,Rare,Branded,Medium,Full
+Miami,1,12,267,<18,High,High,Medium,9,Occasional,Branded,Low,Partial
+New Orleans,8,27,250,40-65,High,Medium,Medium,26,Rare,Generic,High,Full
+Fresno,8,6,294,40-65,Medium,Low,Low,64,Rare,Branded,Medium,Partial
+Charlotte,4,5,286,<18,High,Medium,High,11,Regular,Generic,Low,None
+Arlington,6,25,257,<18,Medium,Medium,High,12,Rare,Generic,Medium,None
+Albuquerque,8,2,257,<18,Low,Low,High,45,Rare,Branded,High,Full
+Detroit,1,10,297,18-40,Low,High,High,91,Rare,Branded,Medium,None
+Atlanta,3,8,258,<18,Medium,Low,High,19,Occasional,Generic,Low,Full
+Dallas,8,22,286,<18,High,High,Low,99,Occasional,Branded,Medium,None
+Colorado Springs,1,27,281,18-40,High,Medium,High,15,Rare,Generic,High,Full
+Philadelphia,2,26,255,>65,Medium,Low,High,45,Occasional,Branded,Low,None
+Columbus,2,4,289,>65,Medium,Low,High,27,Occasional,Generic,Medium,Full
+Mesa,11,24,269,>65,High,Low,Medium,14,Rare,Generic,High,Partial
+Louisville,8,21,287,40-65,Low,Low,Medium,46,Rare,Generic,Medium,Partial
+Seattle,7,24,298,18-40,Low,High,Medium,83,Rare,Generic,High,None
+Minneapolis,6,3,266,40-65,Medium,Medium,Medium,86,Regular,Generic,Medium,Partial
+Fresno,3,2,300,>65,Low,Low,Low,4,Regular,Generic,High,Full
+Fresno,6,14,278,18-40,Low,Medium,High,12,Regular,Generic,Low,None
+Fort Worth,3,27,263,>65,High,Low,Low,31,Regular,Generic,Medium,None
+Aurora,10,19,255,18-40,Low,Low,High,31,Rare,Generic,Medium,None
+Memphis,4,27,287,40-65,High,Low,Medium,96,Occasional,Branded,High,Full
+New York,12,16,258,>65,Low,Medium,High,37,Rare,Generic,Low,None
+Fresno,10,11,289,40-65,Low,High,Medium,38,Rare,Branded,Medium,Full
+Miami Beach,8,24,274,40-65,High,High,High,96,Occasional,Generic,High,Full
+Oakland,4,10,284,>65,High,Low,Low,49,Regular,Generic,Low,Partial
+Phoenix,2,12,261,40-65,Low,Low,Low,32,Rare,Branded,Low,Partial
+Phoenix,10,1,294,<18,Low,High,Medium,29,Rare,Branded,Medium,None
+Tampa,5,23,279,<18,High,Low,High,50,Rare,Branded,Low,Full
+Nashville,6,9,287,18-40,Medium,High,Low,90,Occasional,Generic,Medium,Full
+Omaha,3,20,263,40-65,High,High,Medium,44,Rare,Generic,Low,None
+Bakersfield,8,22,267,>65,Low,Medium,High,32,Regular,Generic,High,None
+Virginia Beach,10,16,252,40-65,Low,Low,Low,19,Regular,Branded,High,None
+Los Angeles,5,7,251,>65,High,Medium,High,23,Rare,Generic,Low,Full
+Philadelphia,11,15,290,18-40,Low,High,Low,33,Regular,Branded,Low,Full
+San Diego,6,25,271,>65,Low,Low,Medium,60,Rare,Branded,Medium,Partial
+San Francisco,11,18,252,>65,High,Low,High,72,Occasional,Branded,High,Partial
+Miami Beach,2,12,266,>65,Low,Medium,Low,90,Regular,Branded,Medium,Full
+Long Beach,11,24,299,<18,High,High,Low,53,Regular,Generic,Medium,Full
+New Orleans,1,19,274,>65,Medium,Low,High,55,Occasional,Branded,High,Partial
+San Francisco,3,7,273,40-65,Medium,Medium,High,13,Rare,Branded,High,None
+Indianapolis,6,23,271,18-40,Low,Low,Low,70,Occasional,Branded,High,Full
+Colorado Springs,9,5,299,18-40,Medium,Low,Low,8,Occasional,Branded,High,Full
+Houston,1,14,266,40-65,High,Medium,High,35,Regular,Generic,Medium,Full
+Milwaukee,9,28,290,<18,High,Medium,High,56,Occasional,Generic,Low,None
+Nashville,9,2,286,40-65,Low,Low,High,47,Rare,Branded,High,Full
+Louisville,11,12,276,18-40,Medium,Medium,Medium,82,Rare,Branded,Low,Partial
+Dallas,3,26,283,18-40,Low,High,Low,21,Regular,Branded,Low,Partial
+Indianapolis,6,13,257,>65,Low,High,Medium,6,Regular,Branded,Low,Partial
+Houston,5,5,290,>65,High,Medium,High,46,Occasional,Branded,Low,Full
+New Orleans,3,23,265,>65,Low,Low,Medium,84,Rare,Branded,Low,None
+Aurora,2,19,262,>65,Medium,Low,High,66,Regular,Branded,Medium,None
+Miami,10,8,288,40-65,Medium,High,Medium,91,Occasional,Generic,Medium,Partial
+Fort Worth,5,27,288,<18,High,Low,Low,24,Regular,Generic,Low,Partial
+Austin,7,11,290,>65,High,High,Low,18,Regular,Branded,Low,None
+New Orleans,12,6,257,18-40,Low,Low,Medium,96,Rare,Branded,Low,None
+Austin,2,18,283,>65,Low,High,Medium,80,Rare,Generic,Medium,Partial
+San Antonio,1,20,265,<18,High,Medium,Low,95,Rare,Generic,High,None
+Austin,2,12,279,18-40,Low,Low,Medium,32,Occasional,Branded,Low,Full
+"Washington, D.C.",4,14,253,<18,High,High,Medium,23,Rare,Generic,High,Full
+Tulsa,6,24,289,40-65,High,High,Low,92,Occasional,Generic,High,Full
+Charlotte,4,4,268,<18,High,High,Low,16,Regular,Branded,Medium,None
+Philadelphia,12,11,284,>65,Low,Medium,High,97,Rare,Branded,Low,Full
+Atlanta,6,4,285,>65,High,Low,Medium,51,Regular,Branded,High,Partial
+Tampa,5,9,292,<18,Medium,Medium,High,90,Rare,Branded,Medium,Partial
+Las Vegas,4,10,275,<18,Low,Low,Medium,2,Rare,Generic,Low,Partial
+Mesa,3,28,287,<18,Low,Low,Medium,3,Occasional,Generic,Medium,None
+Arlington,2,7,252,40-65,Low,High,Low,23,Regular,Generic,Low,Full
+Milwaukee,10,18,268,>65,Low,Low,High,73,Rare,Branded,Low,Partial
+Fresno,12,4,284,40-65,High,Medium,Medium,67,Regular,Branded,High,Full
+Los Angeles,3,27,259,18-40,High,Medium,Medium,77,Occasional,Branded,Medium,Full
+Miami Beach,4,24,263,>65,High,Low,Medium,49,Rare,Branded,Medium,Partial
+Phoenix,7,1,270,40-65,High,Medium,Low,28,Occasional,Generic,Medium,Partial
+Indianapolis,5,8,252,<18,High,Low,Low,11,Regular,Generic,Medium,None
+Philadelphia,2,5,278,<18,Low,Low,High,37,Rare,Generic,Low,Partial
+Fort Worth,8,23,280,18-40,High,Low,Medium,90,Regular,Generic,Low,None
+New York,2,24,254,<18,Low,High,High,78,Regular,Generic,Low,Partial
+Columbus,2,12,292,40-65,Low,Medium,High,80,Occasional,Branded,Low,None
+Charlotte,12,14,257,>65,High,Low,High,41,Occasional,Branded,Medium,Partial
+Wichita,3,23,273,18-40,Medium,High,Low,51,Occasional,Generic,Low,None
+Tucson,2,2,270,18-40,Medium,Low,High,59,Occasional,Branded,Low,None
+Portland,11,1,250,<18,Medium,High,Medium,26,Rare,Generic,Medium,Full
+Portland,8,28,257,40-65,Medium,High,High,8,Regular,Branded,High,None
+Arlington,7,28,251,<18,Medium,Medium,Medium,6,Occasional,Branded,Low,Full
+Mesa,5,28,291,18-40,Low,Low,Low,3,Occasional,Generic,Low,Partial
+Mesa,2,7,282,40-65,Medium,Medium,High,54,Regular,Generic,High,Full
+Long Beach,3,3,258,40-65,High,Low,Low,52,Rare,Branded,High,Full
+Sacramento,1,22,264,<18,High,High,Low,68,Occasional,Branded,High,None
+Charlotte,6,12,251,<18,Low,Low,Medium,73,Regular,Generic,Medium,None
+Miami Beach,2,28,294,18-40,Low,Medium,High,13,Rare,Branded,High,None
+Charlotte,10,1,289,>65,Low,Low,Medium,55,Rare,Branded,High,Full
+Omaha,2,19,293,18-40,Medium,Low,Medium,36,Rare,Generic,Medium,Partial
+Long Beach,1,18,288,<18,Medium,Low,Low,53,Rare,Branded,Medium,Full
+Miami Beach,1,2,280,18-40,Low,Low,Medium,90,Rare,Branded,Low,Partial
+Detroit,3,21,255,18-40,Medium,High,High,52,Occasional,Generic,High,Full
+Miami Beach,1,27,295,18-40,Low,High,High,64,Regular,Branded,High,Full
+New York,11,6,251,>65,Low,Medium,Medium,71,Occasional,Generic,Medium,None
+Bakersfield,9,13,251,18-40,Low,Low,Low,62,Rare,Branded,Low,Full
+Austin,12,13,258,<18,Medium,Low,Medium,92,Occasional,Branded,Low,Partial
+Jacksonville,8,24,279,>65,Medium,Medium,Low,15,Rare,Generic,High,Partial
+Kansas City,12,16,256,>65,Medium,Medium,High,82,Rare,Branded,Low,Partial
+Miami Beach,10,19,298,18-40,High,Low,High,75,Occasional,Branded,High,None
+Fort Worth,11,18,254,18-40,Medium,Low,High,14,Rare,Generic,Medium,None
+Milwaukee,4,13,283,18-40,Low,Medium,Medium,83,Rare,Branded,High,None
+Fresno,4,18,270,40-65,Low,Medium,Low,91,Occasional,Branded,Medium,Full
+Tucson,12,12,287,18-40,Medium,Low,High,79,Occasional,Branded,Medium,Partial
+New York,12,25,277,<18,High,High,Low,3,Occasional,Generic,High,Partial
+Los Angeles,3,5,263,40-65,High,Medium,High,78,Rare,Branded,Medium,Partial
+Long Beach,2,8,258,18-40,Low,High,Low,18,Rare,Generic,Medium,Full
+Cleveland,9,27,281,<18,Low,Medium,High,88,Occasional,Branded,High,Full
+Philadelphia,4,15,253,18-40,Low,High,Medium,45,Rare,Generic,High,Partial
+Cleveland,4,15,298,40-65,Medium,High,High,7,Regular,Generic,High,None
+Dallas,4,3,284,40-65,Low,High,Medium,19,Regular,Branded,Low,None
+Arlington,9,18,297,18-40,Medium,Medium,High,80,Regular,Generic,High,None
+Fort Worth,6,28,274,40-65,Medium,Low,High,51,Regular,Generic,Low,None
+Oakland,1,20,254,18-40,High,Low,High,15,Regular,Generic,High,None
+New Orleans,1,20,289,40-65,High,High,Low,3,Occasional,Generic,Low,Full
+New York,8,8,266,40-65,Medium,Medium,Medium,68,Occasional,Generic,Medium,None
+Raleigh,5,12,287,>65,Medium,High,Medium,86,Regular,Generic,High,None
+Denver,9,19,277,18-40,Medium,High,Low,92,Occasional,Branded,Low,Full
+Albuquerque,6,19,270,<18,Low,High,High,49,Rare,Generic,High,None
+Mesa,3,8,300,40-65,High,High,Low,23,Occasional,Branded,High,Partial
+Wichita,6,20,296,>65,Medium,Low,Medium,96,Rare,Generic,High,None
+Jacksonville,1,18,258,<18,High,Low,Low,46,Regular,Branded,Low,Partial
+Tampa,11,16,254,>65,Medium,Medium,Low,68,Rare,Generic,High,None
+New York,5,9,265,<18,Medium,High,Medium,41,Occasional,Generic,Medium,None
+Omaha,9,15,274,18-40,High,High,Low,11,Rare,Generic,Medium,Full
+Indianapolis,7,18,294,40-65,High,Low,Low,63,Rare,Generic,High,Full
